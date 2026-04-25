@@ -1,13 +1,13 @@
 #  The contact options.
 
 - type: backloggd
-  icon: "fa-solid fa-gamepad"
+  icon: fas fa-gamepad
 
 - type: databazeknih
-  icon: "a-solid fa-book"
+  icon: "fas fa-book"
 
 - type: spotify
-  icon: "fa-brands fa-spotify"
+  icon: "fas fa-spotify"
   noblank: true # open link in current tab
 
 - type: rss
