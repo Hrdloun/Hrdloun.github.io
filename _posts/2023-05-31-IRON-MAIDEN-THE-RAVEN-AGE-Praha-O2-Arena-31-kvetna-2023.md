@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "IRON MAIDEN, THE RAVEN AGE, Praha, O2 Arena - 31.5.2023"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, O2 arena]
 tags: [Iron Maiden, The Raven Age]
 ---
 

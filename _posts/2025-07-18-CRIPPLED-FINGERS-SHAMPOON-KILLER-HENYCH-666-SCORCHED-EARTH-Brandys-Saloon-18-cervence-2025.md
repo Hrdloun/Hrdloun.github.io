@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "CRIPPLED FINGERS, SHAMPOON KILLER, HENYCH 666, SCORCHED EARTH, Brandýs, Saloon - 15.5.2019"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Brandýs nad Labem]
 tags: [Crippled Fingers, Shampoon Killer, Henych 666, Scorched Earth]
 ---
 

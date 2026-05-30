@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "GHOST, Praha, O2 Arena - 11.5.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, O2 arena]
 tags: [Ghost]
 ---
 

@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "ALKEHOL, BASTARD, Čelákovice, Kulturní dům - 10.4.2026"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Čelákovice]
 tags: [Alkehol, Bastard]
 ---
 

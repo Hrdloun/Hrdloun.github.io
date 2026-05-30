@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "SABATON, APOCALYPTICA, AMARANTHE, Praha, O2 Arena - 26.1.2020"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Kongresové centrum]
 tags: [Sabaton, Apocalyptica, Amaranthe]
 ---
 

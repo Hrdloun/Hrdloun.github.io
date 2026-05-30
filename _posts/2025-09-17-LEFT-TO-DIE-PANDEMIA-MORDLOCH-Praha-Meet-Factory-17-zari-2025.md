@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "LEFT TO DIE, PANDEMIA, MORDLOCH, Praha, Meet Factory - 17.9.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Meet Factory]
 tags: [Left to Die, Pandemia, Mordloch]
 ---
 

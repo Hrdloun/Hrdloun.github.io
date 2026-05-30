@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "ORBIT CULTURE, GAEREA, ATLAS, Praha, Roxy - 27.10.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Roxy]
 tags: [Orbit Culture, Gaerea, Atlas]
 ---
 

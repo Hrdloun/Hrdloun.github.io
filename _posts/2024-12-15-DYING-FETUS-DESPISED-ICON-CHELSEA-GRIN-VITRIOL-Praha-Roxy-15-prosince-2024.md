@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "DYING FETUS, DESPISED ICON, CHELSEA GRIN, VITRIOL, Praha, Roxy - 15.12.2024"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Roxy]
 tags: [Dying Fetus, Despised Icon, Chelsea Grin, Vitriol]
 ---
 

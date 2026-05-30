@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "ARCH ENEMY, IN FLAMES, SOILWORK, Praha, Sportovní hala Fortuna - 25.10.2024"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Sportovní hala Fortuna]
 tags: [Arch Enemy, In Flames, Soilwork]
 ---
 

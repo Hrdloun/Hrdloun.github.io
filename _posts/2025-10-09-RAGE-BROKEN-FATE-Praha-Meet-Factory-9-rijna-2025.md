@@ -4,7 +4,7 @@ image:
   alt: description of the image
 title: "RAGE, BROKEN FATE, Praha, Meet Factory - 9.10.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty]
+categories: [Koncerty, Meet Factory]
 tags: [Rage, Broken Fate]
 ---
 
