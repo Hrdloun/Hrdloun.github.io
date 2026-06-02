@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2024-03-23-concert.jpg
 title: "CATTLE DECAPITATION, SIGNS OF THE SWARM, 200 STAB WOUNDS, VOMIT FORTH, Praha, Meet Factory - 23.3.2024"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty, Praha - Meet Factory]
+categories: [Koncerty, Praha / Meet Factory]
 tags: [Cattle Decapitation, Apocalyptica, Amaranthe]
 ---
 

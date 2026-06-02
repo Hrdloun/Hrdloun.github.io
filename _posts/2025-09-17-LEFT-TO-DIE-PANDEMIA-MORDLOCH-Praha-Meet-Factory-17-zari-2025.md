@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2025-09-17-concert.jpg
 title: "LEFT TO DIE, PANDEMIA, MORDLOCH, Praha, Meet Factory - 17.9.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty, Praha - Meet Factory]
+categories: [Koncerty, Praha / Meet Factory]
 tags: [Left to Die, Pandemia, Mordloch]
 ---
 
