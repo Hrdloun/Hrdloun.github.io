@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2025-05-11-concert.jpg
 title: "GHOST, Praha, O2 Arena - 11.5.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty, O2 arena]
+categories: [Koncerty, Praha, O2 arena]
 tags: [Ghost]
 ---
 

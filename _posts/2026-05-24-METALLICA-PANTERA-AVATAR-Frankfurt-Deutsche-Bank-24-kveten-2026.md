@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2020-01-26-concert.jpg
-title: "SABATON, APOCALYPTICA, AMARANTHE, Praha, O2 Arena - 26.1.2020"
-date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty, Praha, O2 arena]
-tags: [Sabaton, Apocalyptica, Amaranthe]
+  path: /assets/img/posts/2026-04-10-concert.jpg
+title: "METALLICA, PANTERA, AVATAR, Frankfurt, Deutche Bank - 24.5.2026"
+date: 2026-05-22 00-00-00 +0800
+categories: [Koncerty, Frankfurt, Deutche Bank]
+tags: [Metallica, Pantera, Frankfurt]
 ---
 
 # Hello World
