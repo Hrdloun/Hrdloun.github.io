@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2025-04-29-concert.jpg
 title: "BLOOD INCANTATION, Minami Deutsch, Praha, Palác Akropolis - 29.4.2025"
 date: 2023-06-04 00-00-00 +0800
-categories: [Koncerty, Praha, Palác Akropolis]
+categories: [Koncerty, Praha - Palác Akropolis]
 tags: [Blood Incantation, Minami Deutsch]
 ---
 
