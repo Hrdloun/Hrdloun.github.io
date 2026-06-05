@@ -9,11 +9,11 @@
 ';
 
 /* append your custom style below */
-#avatar {
-  width: 7rem;
-  height: 7rem;
+#sidebar #avatar {
+  width: 6rem !imporant;
+  height: 6rem !imporant;
 }
 
-.site-title {
-  font-size: 1.65rem;
+#sidebar .site-title {
+  font-size: 1.65rem !imporant;
 }
