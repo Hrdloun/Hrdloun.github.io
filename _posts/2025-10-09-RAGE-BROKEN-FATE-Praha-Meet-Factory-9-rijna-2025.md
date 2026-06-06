@@ -2,7 +2,7 @@
 image:
   path: /assets/img/posts/2025-10-09-concert.jpg
 title: "RAGE, BROKEN FATE, Praha, Meet Factory - 9.10.2025"
-date: 2023-06-04 00-00-00 +0800
+date: 2025-10-09 00-00-00 +0800
 categories: [Koncerty, Praha / Meet Factory]
 tags: [Rage, Broken Fate]
 ---

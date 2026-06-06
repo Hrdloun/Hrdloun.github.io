@@ -20,11 +20,11 @@
   url: "https://discord.gg/your-invite-code"
 
 - type: backloggd
-  icon: "fab fa-gamepad"
+  icon: "fas fa-gamepad"
   url: "https://discord.gg/your-invite-code"
 
 - type: databazeknih
-  icon: "fab fa-book"
+  icon: "fas fa-book"
   url: "https://discord.gg/your-invite-code"
 # Uncomment and complete the url below to enable more contact options
 #

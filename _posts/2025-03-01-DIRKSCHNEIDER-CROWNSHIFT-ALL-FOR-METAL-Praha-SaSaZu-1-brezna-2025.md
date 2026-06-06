@@ -2,7 +2,7 @@
 image:
   path: /assets/img/posts/2025-03-01-concert.jpg
 title: "DIRKSCHNEIDER, CROWNSHIFT, ALL FOR METAL, Praha, SaSaZu - 1.3.2025"
-date: 2023-06-04 00-00-00 +0800
+date: 2025-03-01 00-00-00 +0800
 categories: [Koncerty, Praha / SaSaZu]
 tags: [Dirkschneider, Crownshift, All for metal]
 ---
