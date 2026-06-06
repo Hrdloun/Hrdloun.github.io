@@ -10,10 +10,10 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Domů
+  home: Reporty
   categories: Kategorie
-  tags: Štítky
-  archives: Archivy
+  archives: Časová osa
+  tags: Seznam kapel
   about: O mně
 
 # the text displayed in the search bar & search results
