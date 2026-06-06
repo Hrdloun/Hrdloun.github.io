@@ -1,8 +1,8 @@
 ---
 image:
   path: /assets/img/posts/2026-04-12-concert.jpg
-title: "KREATOR, CARCASS, EXODUS, NAILS,Praha, Forum Karlín - 8.2.2026"
-date: 2026-02-08 00-00-00 +0800
+title: "KREATOR, CARCASS, EXODUS, NAILS,Praha, Forum Karlín - 12.4.2026"
+date: 2026-04-12 00-00-00 +0800
 categories: [Koncerty, Praha / Forum Karlín]
 tags: [Kreator, Carcass, Exodus, Nails]
 ---
