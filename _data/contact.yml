@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: discord
+  icon: "fab fa-discord"
+  url: "https://discord.gg/your-invite-code"
 
 - type: email
   icon: "fas fa-envelope"
@@ -14,8 +15,16 @@
   icon: "fas fa-rss"
   noblank: true
 
-- type: discord
-  icon: "fab fa-discord"
+- type: spotify
+  icon: "fab fa-spotify"
+  url: "https://discord.gg/your-invite-code"
+
+- type: backloggd
+  icon: "fab fa-gamepad"
+  url: "https://discord.gg/your-invite-code"
+
+- type: databazeknih
+  icon: "fab fa-book"
   url: "https://discord.gg/your-invite-code"
 # Uncomment and complete the url below to enable more contact options
 #
