@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2024-06-07-festival.jpg
 title: "VOTVÍRÁK 2024"
 date: 2024-06-07 00-00-00 +0800
-categories: [Festivaly, Votvírák]
+categories: [Festivaly, Votvírák / Milovice]
 tags: [Pražský výběr, Panoptiko, Iné Kafe, Arakain, Legendy se vrací]
 ---
 

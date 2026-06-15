@@ -4,7 +4,7 @@ image:
 title: "CATTLE DECAPITATION, SIGNS OF THE SWARM, 200STABWOUNDS, VOMIT FORTH"
 date: 2024-03-23 00-00-00 +0800
 categories: [Koncerty, Praha / Meet Factory]
-tags: [Cattle Decapitation, Apocalyptica, Amaranthe]
+tags: [Cattle Decapitation, Signs of the Swarm, 200 Stab Wounds, Vomit Forth]
 ---
 
 # Hello World
