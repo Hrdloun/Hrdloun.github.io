@@ -3,18 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- type: discord
-  icon: "fab fa-discord"
-  url: "https://discord.gg/your-invite-code"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-
 - type: spotify
   icon: "fab fa-spotify"
   url: "https://discord.gg/your-invite-code"
@@ -26,6 +14,14 @@
 - type: databazeknih
   icon: "fas fa-book"
   url: "https://discord.gg/your-invite-code"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
