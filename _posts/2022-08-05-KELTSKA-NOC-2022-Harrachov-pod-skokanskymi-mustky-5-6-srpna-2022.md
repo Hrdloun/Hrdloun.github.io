@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2022-08-05-festival.jpg
-title: "KELTSKÁ NOC 2022, Harrachov, pod skokánskými můstky - 5/6.8.2022"
+title: "KELTSKÁ NOC 2022"
 date: 2022-08-05 00-00-00 +0800
 categories: [Festivaly, Keltská noc]
 tags: [Lety mimo, Harlej, Synové výčepu, Trautenberk, SPS, Vypsaná fixa, Volant, Mňága a Žďorp, Pepa Lábus a spol, Madam Royal, Tři sestry, Apple Juice, Wohnout, Tix Tide, E!E, Dukla Vozovna, Doctor P.P.]

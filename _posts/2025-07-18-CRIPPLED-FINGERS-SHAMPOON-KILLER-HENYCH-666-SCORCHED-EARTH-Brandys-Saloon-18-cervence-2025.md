@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2025-07-18-concert.png
-title: "CRIPPLED FINGERS, SHAMPOON KILLER, HENYCH 666, SCORCHED EARTH, Brandýs, Saloon - 18.7.2025"
+title: "CRIPPLED FINGERS, SHAMPOON KILLER, HENYCH 666, SCORCHED EARTH"
 date: 2025-07-18 00-00-00 +0800
 categories: [Koncerty, Brandýs nad Labem / Saloon]
 tags: [Crippled Fingers, Shampoon Killer, Henych 666, Scorched Earth]

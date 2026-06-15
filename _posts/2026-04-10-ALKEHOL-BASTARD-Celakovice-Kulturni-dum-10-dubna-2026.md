@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2026-04-10-concert.jpg
-title: "ALKEHOL, BASTARD, Čelákovice, Kulturní dům - 10.4.2026"
+title: "ALKEHOL, BASTARD"
 date: 2026-04-10 00-00-00 +0800
 categories: [Koncerty, Čelákovice / Kulturní dům]
 tags: [Alkehol, Bastard]

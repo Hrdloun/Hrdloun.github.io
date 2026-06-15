@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2026-02-08-concert.jpg
-title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE, Praha, Forum Karlín - 8.2.2026"
+title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE"
 date: 2026-02-08 00-00-00 +0800
 categories: [Koncerty, Praha / Forum Karlín]
 tags: [Slaughter to Prevail, Dying Fetus, Suicide Silence FOX LAKE]

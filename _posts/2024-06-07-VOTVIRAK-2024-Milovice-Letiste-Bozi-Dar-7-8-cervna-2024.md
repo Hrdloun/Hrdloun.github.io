@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2024-06-07-festival.jpg
-title: "VOTVÍRÁK 2024, Milovice, Letiště Boží Dar - 7/8.6.2024"
+title: "VOTVÍRÁK 2024"
 date: 2024-06-07 00-00-00 +0800
 categories: [Festivaly, Votvírák]
 tags: [Pražský výběr, Panoptiko, Iné Kafe, Arakain, Legendy se vrací]

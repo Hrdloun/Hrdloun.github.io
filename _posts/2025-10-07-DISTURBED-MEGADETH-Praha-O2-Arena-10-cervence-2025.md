@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2025-10-07-concert.jpg
-title: "DISTURBED, MEGADETH, Praha, O2 arena - 7.10.2025"
+title: "DISTURBED, MEGADETH"
 date: 2025-10-7 00-00-00 +0800
 categories: [Koncerty, Praha / O2 arena]
 tags: [Disturbed, Megadeth]

@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2024-12-15-concert.jpg
-title: "DYING FETUS, DESPISED ICON, CHELSEA GRIN, VITRIOL, Praha, Roxy - 15.12.2024"
+title: "DYING FETUS, DESPISED ICON, CHELSEA GRIN, VITRIOL"
 date: 2024-12-15 00-00-00 +0800
 categories: [Koncerty, Praha / Roxy]
 tags: [Dying Fetus, Despised Icon, Chelsea Grin, Vitriol]

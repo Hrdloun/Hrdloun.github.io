@@ -1,7 +1,7 @@
 ---
 image:
   path: /assets/img/posts/2026-05-22-concert.jpg
-title: "METALLICA, PANTERA, AVATAR, Frankfurt, Deutsche Bank - 24.5.2026"
+title: "METALLICA, PANTERA, AVATAR"
 date: 2026-05-24 00-00-00 +0800
 categories: [Koncerty, Frankfurt / Deutsche Bank]
 tags: [Metallica, Pantera, Avatar]
