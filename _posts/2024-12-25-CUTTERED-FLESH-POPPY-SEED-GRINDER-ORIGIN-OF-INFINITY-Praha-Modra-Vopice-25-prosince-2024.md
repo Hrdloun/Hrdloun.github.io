@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2026-02-08-concert.jpg
-title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE"
-date: 2026-02-08 00-00-00 +0800
-categories: [Koncerty, Praha / Forum Karlín]
-tags: [Slaughter to Prevail, Dying Fetus, Suicide Silence]
+  path: /assets/img/posts/2024-12-25-concert.jpg
+title: "CUTTERED FLESH, POPPY SEED GRINDER, ORIGIN OF INFINITY"
+date: 2024-12-25 00-00-00 +0800
+categories: [Koncerty, Praha / Modrá Vopice]
+tags: [Cuttered Flesh, Poppy Seed Grinder, Origin of Infinity]
 ---
 
 # Hello World

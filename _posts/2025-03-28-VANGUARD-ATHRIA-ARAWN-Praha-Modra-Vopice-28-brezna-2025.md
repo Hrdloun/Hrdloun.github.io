@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2026-02-08-concert.jpg
-title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE"
-date: 2026-02-08 00-00-00 +0800
-categories: [Koncerty, Praha / Forum Karlín]
-tags: [Slaughter to Prevail, Dying Fetus, Suicide Silence]
+  path: /assets/img/posts/2025-03-28-concert.jpg
+title: "VANGUARD, ATHRIA, ARAWN"
+date: 2025-03-28 00-00-00 +0800
+categories: [Koncerty, Praha / Modrá Vopice]
+tags: [Vanguard, Athria, Arawn]
 ---
 
 # Hello World

@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2026-02-08-concert.jpg
-title: "SLAUGHTER TO PREVAIL, DYING FETUS, SUICIDE SILENCE"
-date: 2026-02-08 00-00-00 +0800
-categories: [Koncerty, Praha / Forum Karlín]
-tags: [Slaughter to Prevail, Dying Fetus, Suicide Silence]
+  path: /assets/img/posts/2026-05-09-concert.jpg
+title: "COMMUTER, SWAFFELEN"
+date: 2026-05-09 00-00-00 +0800
+categories: [Koncerty, Praha / Beats From Basement]
+tags: [Commuter, Swaffelen]
 ---
 
 # Hello World
