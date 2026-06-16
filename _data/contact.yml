@@ -17,7 +17,7 @@
 
 - type: discord
   icon: "fas fa-discord"
-  noblank: true
+  url: "https://discord.gg/your-invite-code"
 
 - type: email
   icon: "fas fa-envelope"
