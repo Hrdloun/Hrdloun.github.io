@@ -19,6 +19,6 @@
 }
 
 
-.custom-icon img {
-  max-width: 70% !important;
+#sidebar .sidebar-bottom img:hover {
+  filter: brightness(0) invert(1) !important;
 }
