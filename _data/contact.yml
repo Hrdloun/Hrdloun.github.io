@@ -1,16 +1,4 @@
 #  The contact options.
-
-- type: github
-  icon: "fab fa-github"
-
-- type: backloggd
-  icon: "fas fa-gamepad"
-  url: "https://discord.gg/your-invite-code"
-
-- type: databazeknih
-  icon: "fas fa-book"
-  url: "https://discord.gg/your-invite-code"
-
 - type: spotify
   icon: "fab fa-spotify"
   url: "https://discord.gg/your-invite-code"
