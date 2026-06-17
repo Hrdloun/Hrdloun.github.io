@@ -48,6 +48,10 @@
 
       {% if site.data.contact.size > 0 %}
         <span class="icon-border"></span>
+
+        <a href="https://discord.gg/your-invite-code" aria-label="backloggd" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-gamepad"></i>
+        </a>
       {% endif %}
     {% endunless %}
 
@@ -77,11 +81,6 @@
       {% endcase %}
 
       {% if url %}
-
-        <a href="https://discord.gg/your-invite-code" aria-label="backloggd" target="_blank" rel="noopener noreferrer">
-          <i class="fas fa-gamepad">
-          </i>
-        </a>
 
         <a
           href="{{ url }}"
