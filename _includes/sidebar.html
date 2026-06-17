@@ -76,13 +76,13 @@
           {% assign url = entry.url %}
       {% endcase %}
 
-      <a href="https://discord.gg/your-invite-code" aria-label="backloggd" target="_blank" rel="noopener noreferrer"> <i class="fas fa-gamepad"></i> </a>
-        <i class="fas fa-gamepad">
-          ::before
-        </i>
-      </a>
-
       {% if url %}
+
+        <a href="https://discord.gg/your-invite-code" aria-label="backloggd" target="_blank" rel="noopener noreferrer"> <i class="fas fa-gamepad"></i> </a>
+          <i class="fas fa-gamepad">
+          </i>
+        </a>
+
         <a
           href="{{ url }}"
           aria-label="{{ entry.type }}"
