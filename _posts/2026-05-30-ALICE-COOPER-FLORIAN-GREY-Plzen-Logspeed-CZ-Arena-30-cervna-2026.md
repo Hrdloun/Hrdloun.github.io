@@ -1,6 +1,6 @@
 ---
 image:
-  path: /assets/img/posts/2026-06-30-concert.wepb
+  path: /assets/img/posts/2026-06-30-concert.webp
 title: "ALICE COOPER, FLORIAN GREY"
 date: 2026-06-30 00-00-00 +0800
 categories: [Koncerty, Plzeň / Logspeed CZ Arena]
