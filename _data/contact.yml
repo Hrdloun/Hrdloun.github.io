@@ -2,15 +2,15 @@
 - type: spotify
   icon: "fab fa-spotify"
   url: "https://discord.gg/your-invite-code"
-
-- type: discord
-  icon: "fab fa-discord"
-  url: "https://discord.gg/your-invite-code"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
+#
+#- type: discord
+#  icon: "fab fa-discord"
+#  url: "https://discord.gg/your-invite-code"
+#
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
+#
 - type: rss
   icon: "fas fa-rss"
   noblank: true

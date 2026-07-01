@@ -87,5 +87,5 @@ df:
 categories:
   category_measure: kategorie
   post_measure:
-    singular: příspěvěk
-    plural: příspěvky
+    singular: report
+    plural: reporty
