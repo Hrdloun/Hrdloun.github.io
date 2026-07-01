@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2022-08-05-festival.jpg
-title: "KELTSKÁ NOC 2022"
-date: 2022-08-05 00-00-00 +0800
-categories: [Festivaly, Keltská noc / Harrachov]
-tags: [Lety mimo, Harlej, Synové výčepu, Trautenberk, SPS, Vypsaná fixa, Volant, Mňága a Žďorp, Pepa Lábus a spol, Madam Royal, Tři sestry, Apple Juice, Wohnout, Tix Tide, E!E, Dukla Vozovna, Doctor P.P.]
+  path: /assets/img/posts/2024-07-11-festival.jpg
+title: "MASTERS OF ROCK 2024 - 4. DEN"
+date: 2024-07-14 00-00-00 +0800
+categories: [Festivaly, Masters of Rock / Vizovice]
+tags: [Moonspell, Stratovarius, Bruce Dickinson, Sodom, Turmion Kätilöt, Melechesh, Dragonhammer, Slope, Fleret, Alestorm, Judas Priest, Electric Callboy, Doro, Unleash The Archers, Die Happy, Serious Black, Dark Sky, Osyron, Denoi, Sirenia, Avantasia, Cavalera Conspiracy, Dynazty, Cyhra, Amalgama, Dalriada, Fixation, Wytch Hazel, Exit, Gate Crasher, Accept, Amaranthe, KK’s Priest, Rage, Delain, Annisokay, Eleine, Symfobia, Blax]
 ---
 
 # Hello World

@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2024-07-11-festival.jpg
-title: "MASTERS OF ROCK 2024"
-date: 2024-07-11 00-00-00 +0800
-categories: [Festivaly, Masters of Rock / Vizovice]
-tags: [Moonspell, Stratovarius, Bruce Dickinson, Sodom, Turmion Kätilöt, Melechesh, Dragonhammer, Slope, Fleret, Alestorm, Judas Priest, Electric Callboy, Doro, Unleash The Archers, Die Happy, Serious Black, Dark Sky, Osyron, Denoi, Sirenia, Avantasia, Cavalera Conspiracy, Dynazty, Cyhra, Amalgama, Dalriada, Fixation, Wytch Hazel, Exit, Gate Crasher, Accept, Amaranthe, KK’s Priest, Rage, Delain, Annisokay, Eleine, Symfobia, Blax]
+  path: /assets/img/posts/2025-08-08-festival.png
+title: "KELTSKÁ NOC 2025 - 1. DEN"
+date: 2025-08-08 00-00-00 +0800
+categories: [Festivaly, Keltská noc / Vysoké nad Jizerou]
+tags: [Krucipüsk, MIG 21, Vypsaná fixa, Alkehol, Totální nasazení, 1st Choice, Zputnik, Plexisovjanka, SPS, Lety mimo, Vasilův Rubáš, Trautenberk, Tři sestry, Harlej, Mňága a Žďorp, E!E, Doctor P.P., Zaseklý Stroje, Neutopia, Synové výčepu, MZH, Staré pušky, The Fialky, Záviš]
 ---
 
 # Hello World
