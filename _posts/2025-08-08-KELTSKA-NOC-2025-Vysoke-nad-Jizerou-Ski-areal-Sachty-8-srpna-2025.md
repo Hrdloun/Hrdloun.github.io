@@ -4,7 +4,7 @@ image:
 title: "KELTSKÁ NOC 2025 - 1. DEN"
 date: 2025-08-08 00-00-00 +0800
 categories: [Festivaly, Keltská noc / Vysoké nad Jizerou]
-tags: [Krucipüsk, MIG 21, Vypsaná fixa, Alkehol, Totální nasazení, 1st Choice, Zputnik, Plexisovjanka, SPS, Lety mimo, Vasilův Rubáš, Trautenberk, Tři sestry, Harlej, Mňága a Žďorp, E!E, Doctor P.P., Zaseklý Stroje, Neutopia, Synové výčepu, MZH, Staré pušky, The Fialky, Záviš]
+tags: [Krucipüsk, MIG 21, Vypsaná fixa, Alkehol, Totální nasazení, 1st Choice, Zputnik, Plexisovjanka, SPS, Lety mimo, Vasilův Rubáš, Trautenberk, Tři sestry, Harlej, Mňága a Žďorp, E!E, Doctor P.P., Zaseklý Stroje, Neutopia, Synové výčepu, MZH, Staré pušky, The Fialky]
 ---
 
 # Hello World
