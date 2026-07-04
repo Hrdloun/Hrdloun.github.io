@@ -1,19 +1,19 @@
 #  The contact options.
-# - type: spotify
-#  icon: "fab fa-spotify"
-#  url: "https://discord.gg/your-invite-code"
-#
-#- type: discord
-#  icon: "fab fa-discord"
-#  url: "https://discord.gg/your-invite-code"
-#
-#- type: email
-#  icon: "fas fa-envelope"
-#  noblank: true # open link in current tab
-#
-#- type: rss
-#  icon: "fas fa-rss"
-#  noblank: true
+- type: matrix
+  icon: "fab fa-matrix"
+  noblank: true # open link in current tab
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: github
+  icon: "fab fa-github"
+  noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
