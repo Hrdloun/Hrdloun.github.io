@@ -4,7 +4,7 @@ image:
 title: "ROCK FOR PEOPLE 2026 - WARM UP"
 date: 2026-06-09 00-00-00 +0800
 categories: [Festivaly, Rock for People / Hradec Králové]
-tags: [Bazookas, Byt číslo 4, Kublai Khan TX, Bloodywood, Nevertel, Megadeth, The Pretty Reckless, Electric Callboy, Gorillaz, Trivium, RAZAM, Díe Spitz, Set It Off, letlive., The Plot In You, Social Distortion, Breaking Benjamin, Last Train, BABYMETAL, Papa Roach, Limb Bizkit, The All-American Rejects, P/\ST, South Arcade, Basement, Gatecreeper, Dying Wish, Bilmuri, A Day To Remember, Bring Me The Horizon, Gaerea, Svdden Death, Sunborn, Jet8, Calva Louise, Kid Kapichi, Bury Tomorrow, I Killed The Prom Queen, Acid Row, Malevolence, Yonaka, Nothing But Thieves, Silent Planet, The 900, Within Temptation, The Funeral Portrait, Hollow Suns, Excide, Blackgold, Loathe, Alice, Queensrÿche, Knocked Loose, Alter Bridge, Iron Maiden, God Is An Astronaut]
+tags: [Hana Lili, Morčata na útěku]
 ---
 
 # Hello World

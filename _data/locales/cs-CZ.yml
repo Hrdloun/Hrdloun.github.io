@@ -63,8 +63,8 @@ post:
   relate_posts: Další čtení
   share: Sdílet
   button:
-    next: Novější
-    previous: Starší
+    next: Následující
+    previous: Předešlí
     copy_code:
       succeed: Zkopírováno!
     share_link:
