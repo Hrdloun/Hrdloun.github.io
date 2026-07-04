@@ -1,7 +1,7 @@
 #  The contact options.
-- type: spotify
-  icon: "fab fa-spotify"
-  url: "https://discord.gg/your-invite-code"
+# - type: spotify
+#  icon: "fab fa-spotify"
+#  url: "https://discord.gg/your-invite-code"
 #
 #- type: discord
 #  icon: "fab fa-discord"
@@ -11,9 +11,9 @@
 #  icon: "fas fa-envelope"
 #  noblank: true # open link in current tab
 #
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
