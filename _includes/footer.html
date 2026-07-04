@@ -29,11 +29,9 @@
   </p>
 
   <p>
-    💻 Generátor
     {%- capture _platform -%}
-      <a href="https://jekyllrb.com" target="_blank" rel="noopener"> Jekyll </a>
+      <a href="https://jekyllrb.com" target="_blank" rel="noopener">💻 Generátor Jekyll </a>
     {%- endcapture -%}
-    • 🎨 Motiv
     {%- capture _theme -%}
       <a
         data-bs-toggle="tooltip"
@@ -42,9 +40,8 @@
         href="https://github.com/cotes2020/jekyll-theme-chirpy"
         target="_blank"
         rel="noopener"
-      > Chirpy </a>
+      >• 🎨 Motiv Chirpy • 🍵 Vyladěno s hrnkem čaje. </a>
     {%- endcapture -%}
-    • 🍵 Vyladěno s hrnkem čaje.
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>
 </footer>
