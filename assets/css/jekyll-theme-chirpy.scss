@@ -10,15 +10,46 @@
 
 /* append your custom style below */
 #sidebar #avatar {
-  width: 6rem !important;
-  height: 6rem !important;
+  width: 6.5rem !important;
+  height: 6.5rem !important;
 }
 
 #sidebar .site-title {
   font-size: 1.65rem !important;
 }
 
-
 #sidebar .sidebar-bottom img:hover {
   filter: brightness(0) invert(1) !important;
+}
+
+#sidebar .site-title {
+  color: #D7263D !important;
+}
+
+#sidebar .site-subtitle {
+  color: white !important;
+}
+
+#sidebar ul li.nav-item a.nav-link i {
+  color: #D7263D !important;
+}
+
+#sidebar ul li.nav-item a.nav-link {
+  color: white !important;
+}
+
+#post-list .card .card-body .card-title {
+  font-weight: bold !important;
+}
+
+#panel-wrapper .panel-heading {
+  color: #D7263D !important;
+}
+
+.text-muted {
+  color: white;
+}
+
+#topbar #breadcrumb {
+  color: white;
 }
