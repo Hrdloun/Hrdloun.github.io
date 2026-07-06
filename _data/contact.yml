@@ -2,15 +2,15 @@
 
 - type: spotify
   icon: "fab fa-spotify"
-  url:  'https://discord.gg/your-invite-code'
+  url:  'https://open.spotify.com/user/cp01hhffulwkmgdj3ndv3lp4u?si=b0bd65b235274acf'
 
 - type: email
   icon: "fas fa-envelope"
-  url:  'https://discord.gg/your-invite-code'
+  url: "mailto:kontakt@ondrejhrdlicka.cz"
 
 - type: rss
   icon: "fas fa-rss"
-  url:  'https://discord.gg/your-invite-code'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
