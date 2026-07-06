@@ -2,15 +2,15 @@
 
 - type: spotify
   icon: "fab fa-spotify"
-  url:  ''
+  url:  'https://discord.gg/your-invite-code'
 
 - type: email
   icon: "fas fa-envelope"
-  url:  ''
+  url:  'https://discord.gg/your-invite-code'
 
 - type: rss
   icon: "fas fa-rss"
-  url:  ''
+  url:  'https://discord.gg/your-invite-code'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
