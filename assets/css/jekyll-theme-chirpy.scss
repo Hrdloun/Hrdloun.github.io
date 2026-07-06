@@ -9,6 +9,11 @@
 ';
 
 /* append your custom style below */
+ 
+#sidebar {
+  border-right: 1px solid var(--sidebar-border-color) !important;
+}
+
 #sidebar #avatar {
   width: 6.5rem !important;
   height: 6.5rem !important;
@@ -23,12 +28,12 @@
   color: white !important;
 }
 
-#sidebar ul li.nav-item a.nav-link i {
-  color: #D7263D !important;
-}
-
 #sidebar ul li.nav-item a.nav-link {
   color: white !important;
+}
+
+#sidebar ul li.nav-item a.nav-link i {
+  color: #D7263D !important;
 }
 
 #post-list .card .card-body .card-title {
@@ -70,5 +75,3 @@
 #topbar #breadcrumb span a{
   color: #D7263D !important;
 }
-
-
