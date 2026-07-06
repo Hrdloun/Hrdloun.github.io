@@ -51,8 +51,8 @@
   color: white !important;
 }
 
-#sidebar {
-  border-right: 1px solid var(--sidebar-border-color)  !important;
+#sidebar .sidebar-bottom #mode-toggle, #sidebar .sidebar-bottom > a {
+  color: white !important;
 }
 
 .fa-search {
