@@ -16,14 +16,11 @@
 
 #sidebar .site-title {
   font-size: 1.65rem !important;
+  color: #D7263D !important;
 }
 
 #sidebar .sidebar-bottom img:hover {
   filter: brightness(0) invert(1) !important;
-}
-
-#sidebar .site-title {
-  color: #D7263D !important;
 }
 
 #sidebar .site-subtitle {
@@ -47,9 +44,21 @@
 }
 
 .text-muted {
-  color: white;
+  color: white !important;
 }
 
 #topbar #breadcrumb {
-  color: white;
+  color: white !important;
+}
+
+#sidebar {
+  border-right: 1px solid var(--sidebar-border-color)  !important;
+}
+
+.fa-search {
+  color: #D7263D !important;
+}
+
+#search-input::placeholder {
+  color: red;
 }
