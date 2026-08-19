@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - 2. DEN"
 date: 2026-06-11 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [Díe Spitz, Set It Off, letlive., The Plot In You, Social Distortion, Breaking Benjamin, Last Train, BABYMETAL, Papa Roach, Limb Bizkit, The All-American Rejects]
 ---
 

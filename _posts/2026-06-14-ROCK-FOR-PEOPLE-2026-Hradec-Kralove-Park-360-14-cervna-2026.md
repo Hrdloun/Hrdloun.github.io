@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - 5. DEN"
 date: 2026-06-14 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [Hollow Suns, Excide, Blackgold, Loathe, Alice, Queensrÿche, Knocked Loose, Alter Bridge, Iron Maiden, God Is An Astronaut]
 ---
 

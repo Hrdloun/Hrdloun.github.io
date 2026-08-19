@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - 4. DEN"
 date: 2026-06-13 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [Sunborn, Jet8, Calva Louise, Kid Kapichi, Bury Tomorrow, I Killed The Prom Queen, Acid Row, Malevolence, Yonaka, Nothing But Thieves, Silent Planet, The 900, Within Temptation, The Funeral Portrait]
 ---
 

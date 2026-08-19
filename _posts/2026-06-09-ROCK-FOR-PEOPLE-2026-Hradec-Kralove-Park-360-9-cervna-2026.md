@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - WARM UP"
 date: 2026-06-09 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [Hana Lili, Morčata na útěku]
 ---
 

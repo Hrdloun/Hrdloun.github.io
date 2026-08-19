@@ -1,10 +1,10 @@
 ---
 image:
-  path: /assets/img/posts/2025-06-11-festival.png
-title: "ROCK FOR PEOPLE 2025 - 3. DEN"
-date: 2025-06-13 00-00-00 +0800
-categories: [Festivaly, Rock for People]
-tags: [Noisy, Avenged Sevenfold, Shinedown, Grandson, Poppy, Kittie, Vowws, Karen Dió, Blooming Discord, Wethegods, Poly Noir & Holy Spirit Smugglers, Jiluka, Slipknot, Lorna Shore, Kim Dracula, The Ghost Inside, Dayseeker, DVNE, Castle Rat, Superheaven, Static Dress, Perturbator, Nežfaleš, The Living Tombstone, Sex Pistols ft. Frank Carter, Skillet, In Flames, Amira Elfeky, Paleface Swiss, Mucha, Lake Malice, Horkýže Slíže, Fit For an Autopsy, Hentai Corporation, RØRY, Fontaines D.C, Linkin Park, Motionless in White, Urne, Refused, Battlesnake, Thrice, DZ Deathrays, Stray From The Path, Creeper, David Koller a Prague Philharmonia]
+  path: /assets/img/posts/2025-08-08-festival.png
+title: "KELTSKÁ NOC 2025 - 1. DEN"
+date: 2025-08-08 00-00-00 +0800
+categories: [Festivaly, Keltská noc]
+tags: [Krucipüsk, MIG 21, Vypsaná fixa, Alkehol, Totální nasazení, 1st Choice, Zputnik, Plexisovjanka, SPS, Lety mimo, Vasilův Rubáš, Trautenberk, Tři sestry, Harlej, Mňága a Žďorp, E!E, Doctor P.P., Zaseklý Stroje, Neutopia, Synové výčepu, MZH, Staré pušky, The Fialky]
 ---
 
 # Hello World

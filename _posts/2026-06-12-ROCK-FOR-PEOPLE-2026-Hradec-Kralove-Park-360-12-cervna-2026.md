@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - 3. DEN"
 date: 2026-06-12 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [P/\ST, South Arcade, Basement, Gatecreeper, Dying Wish, Bilmuri, A Day To Remember, Bring Me The Horizon, Gaerea, Svdden Death]
 ---
 

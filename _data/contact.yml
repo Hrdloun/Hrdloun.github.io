@@ -2,7 +2,7 @@
 
 - type: spotify
   icon: "fab fa-spotify"
-  url:  'https://open.spotify.com/user/cp01hhffulwkmgdj3ndv3lp4u?si=ed877e857dbb448d'
+  url: "https://open.spotify.com/user/cp01hhffulwkmgdj3ndv3lp4u?si=ed877e857dbb448d"
 
 - type: email
   icon: "fas fa-envelope"

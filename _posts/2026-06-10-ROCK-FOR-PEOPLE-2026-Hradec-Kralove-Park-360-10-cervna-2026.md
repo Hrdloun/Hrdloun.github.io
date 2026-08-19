@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2026-06-10-festival.jpg
 title: "ROCK FOR PEOPLE 2026 - 1. DEN"
 date: 2026-06-10 00-00-00 +0800
-categories: [Festivaly, Rock for People / Hradec Králové]
+categories: [Festivaly, Rock for People]
 tags: [Bazookas, Byt číslo 4, Kublai Khan TX, Bloodywood, Nevertel, Megadeth, The Pretty Reckless, Electric Callboy, Gorillaz, Trivium, RAZAM]
 ---
 

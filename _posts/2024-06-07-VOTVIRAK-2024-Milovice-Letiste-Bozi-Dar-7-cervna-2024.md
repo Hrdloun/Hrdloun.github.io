@@ -3,7 +3,7 @@ image:
   path: /assets/img/posts/2024-06-07-festival.jpg
 title: "VOTVÍRÁK 2024 - PRAŽSKÝ VÝBĚR, PANOPTIKO"
 date: 2024-06-07 00-00-00 +0800
-categories: [Festivaly, Votvírák / Milovice]
+categories: [Festivaly, Votvírák]
 tags: [Panoptiko, Pražský výběr]
 ---
 
