@@ -10,7 +10,7 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Reporty
+  home: Koncerty
   categories: Kategorie
   archives: Časová osa
   tags: Seznam kapel
@@ -87,5 +87,5 @@ df:
 categories:
   category_measure: kategorie
   post_measure:
-    singular: report
-    plural: reporty
+    singular: článek
+    plural: článků
