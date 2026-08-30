@@ -97,7 +97,11 @@
   font-size: 1.24rem !important;
 }
 
-#toc-wrapper .position-sticky {
-  animation: none !important;
+#toc-wrapper {
   margin-top: 0 !important;
+}
+
+#toc-wrapper:not(.invisible) {
+  -webkit-animation: none !important;
+  animation: none !important;
 }
